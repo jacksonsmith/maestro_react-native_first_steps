@@ -1,79 +1,69 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Hello World Project with Maestro
 
-# Getting Started
+Welcome to the Hello World project with Maestro! This project demonstrates how to use the Maestro tool for end-to-end (E2E) testing in mobile applications. Whether you are a beginner or have some experience, this repository offers resources for both levels.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Repository Structure
+# Projeto AwesomeProject
 
-## Step 1: Start the Metro Server
+## Estrutura de Pastas e Arquivos
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+Aqui está uma descrição das pastas e arquivos mais importantes para executar o projeto e trabalhar com Maestro:
 
-To start Metro, run the following command from the _root_ of your React Native project:
+### 📂 **AwesomeProject**
+- 📁 **e2e/ios**: Diretório de testes de ponta a ponta específicos para iOS, utilizado para garantir que o aplicativo funcione corretamente em dispositivos iOS.
+- 📁 **ios**: Diretório com arquivos e configurações específicas para compilar e executar o aplicativo em dispositivos iOS.
+- 📁 **node_modules**: Diretório que contém todas as dependências do Node.js necessárias para o projeto.
+- 📄 **App.tsx**: Arquivo principal da aplicação escrito em TypeScript, onde a lógica e a interface do usuário do aplicativo são implementadas.
+- 📄 **package.json**: Arquivo de configuração do projeto que inclui metadados, scripts e dependências.
+- 📄 **README.md**: Arquivo em Markdown contendo informações e documentação sobre o projeto.
 
-```bash
-# using npm
-npm start
+## Descrição dos Itens Importantes
 
-# OR using Yarn
-yarn start
-```
+- **e2e/ios**: 
+  - **Descrição**: Este diretório contém os testes de ponta a ponta (E2E) específicos para dispositivos iOS. Os testes E2E são cruciais para garantir que todas as partes do aplicativo funcionem corretamente em conjunto.
+  - **Uso**: Execute os testes E2E para verificar a funcionalidade completa do aplicativo em um ambiente simulado de iOS.
 
-## Step 2: Start your Application
+- **ios**: 
+  - **Descrição**: Diretório contendo todos os arquivos e configurações necessários para compilar e executar o aplicativo em dispositivos iOS. Isso inclui arquivos de configuração do Xcode, recursos do aplicativo e outros arquivos específicos do iOS.
+  - **Uso**: Utilize este diretório para compilar e testar o aplicativo em dispositivos e simuladores iOS.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+- **node_modules**: 
+  - **Descrição**: Este diretório armazena todas as dependências do Node.js necessárias para o projeto. As dependências são gerenciadas pelo npm ou yarn.
+  - **Uso**: Assegure-se de que todas as dependências estejam instaladas corretamente para que o projeto funcione conforme esperado.
 
-### For Android
+- **App.tsx**: 
+  - **Descrição**: Este é o arquivo principal do aplicativo escrito em TypeScript. Ele contém a lógica principal e a interface do usuário do aplicativo.
+  - **Uso**: Desenvolva e mantenha a interface do usuário e a lógica do aplicativo neste arquivo. Ele é o ponto de partida para a maioria das modificações no aplicativo.
 
-```bash
-# using npm
-npm run android
+- **package.json**: 
+  - **Descrição**: Arquivo de configuração do projeto que inclui metadados, scripts e dependências.
+  - **Uso**: Gerencia as dependências, scripts de build, e outras configurações do projeto.
 
-# OR using Yarn
-yarn android
-```
+- **README.md**: 
+  - **Descrição**: Arquivo em Markdown contendo informações e documentação sobre o projeto.
+  - **Uso**: Fornece uma visão geral do projeto, instruções de configuração e execução, e outras informações relevantes.
 
-### For iOS
+Utilize esses arquivos e pastas para configurar e executar o projeto, bem como para trabalhar com testes E2E utilizando o Maestro.
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
+## Overview
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+Maestro is a powerful tool for end-to-end testing in mobile applications, offering simplicity, speed, and flexibility.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+## Getting Started
 
-## Step 3: Modifying your App
+To get started, choose the guide that best fits your level of experience:
 
-Now that you have successfully run the app, let's modify it.
+## Commands Required to Run the Project
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+To run the project and perform end-to-end (E2E) tests using Maestro, follow the steps below. Each command plays a specific role in the process of building, installing, and running the tests.
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+### 📦 **package.json Commands**
 
-## Congratulations! :tada:
+- **e2e:ios:build**
+- **e2e:ios:install**
+- **e2e:ios:run** 
 
-You've successfully run and modified your React Native App. :partying_face:
+## Contribution
 
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
