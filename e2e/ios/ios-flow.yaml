@@ -1,0 +1,12 @@
+appId: org.reactjs.native.example.AwesomeProject
+---
+  - launchApp
+
+  - tapOn:
+      text: "Step One"
+  - assertVisible:
+      text: "Edit App.tsx to change this screen and then come back to see your edits."
+  - assertVisible:
+      text: "Debug" # Assuming the text in DebugInstructions is visible
+  - assertVisible:
+      text: "Read the docs to discover what to do next:"

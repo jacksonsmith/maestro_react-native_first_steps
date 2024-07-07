@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Assets.car</key>
+		<data>
+		KGBDolE1ecZcyRn/1szB9miTvYg=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		BObq4lsI+PiG4TRuln2OQ2bwpTM=
+		</data>
+		<key>Sticker Pack.stickerpack/Anatomical heart.png</key>
+		<data>
+		Wx/3Et+bui+a+iazNX1qNPVk0No=
+		</data>
+		<key>Sticker Pack.stickerpack/Astronaut animated.gif</key>
+		<data>
+		cg/9MnbtvODEudFJRr+iIL3YteU=
+		</data>
+		<key>Sticker Pack.stickerpack/Astronaut.png</key>
+		<data>
+		QjW4zs6nlezwG9zLeAK4Uml7yvc=
+		</data>
+		<key>Sticker Pack.stickerpack/Blackhole.png</key>
+		<data>
+		NL4Z88vUoOiQWeJlgNTRF4E0uw0=
+		</data>
+		<key>Sticker Pack.stickerpack/Books.gif</key>
+		<data>
+		Ag9qdzilbEZpx9OMjJ0PGKpYm3g=
+		</data>
+		<key>Sticker Pack.stickerpack/BrainFood.gif</key>
+		<data>
+		NYqzXfAoT49Dv4Dy992y2fzQUCo=
+		</data>
+		<key>Sticker Pack.stickerpack/Butterfly.gif</key>
+		<data>
+		tsw05c+qAFEQOHKTz+miheBuukg=
+		</data>
+		<key>Sticker Pack.stickerpack/CatLaptop.gif</key>
+		<data>
+		3k1w+AoJ/bzhbPD0dcjE2hats7E=
+		</data>
+		<key>Sticker Pack.stickerpack/Citation needed .png</key>
+		<data>
+		Yxt5lhaXvI6zzWISd+AtAczeJz8=
+		</data>
+		<key>Sticker Pack.stickerpack/Citation needed animated.gif</key>
+		<data>
+		Po+YLKwJTJyMB6SyJlsaPZFCCc8=
+		</data>
+		<key>Sticker Pack.stickerpack/Dragon.gif</key>
+		<data>
+		7cdNl6hOW0Z/Dnms4FqCtP6NVok=
+		</data>
+		<key>Sticker Pack.stickerpack/Facts.gif</key>
+		<data>
+		HtPy1Wd3xFmnczVlnmr/6WpUztE=
+		</data>
+		<key>Sticker Pack.stickerpack/Heart eyes.gif</key>
+		<data>
+		knI8sSuCIWdKA3E0BhJpuCG4+Gk=
+		</data>
+		<key>Sticker Pack.stickerpack/Help lol.gif</key>
+		<data>
+		FGHETXNHW7bXqPAHBugnyQLH5vw=
+		</data>
+		<key>Sticker Pack.stickerpack/Idea.gif</key>
+		<data>
+		BPP4GEbMEuBi6vQ0PQCHHZ8t17g=
+		</data>
+		<key>Sticker Pack.stickerpack/Info.plist</key>
+		<data>
+		p6dEHVcy6iC6uePByw/GUIFuavM=
+		</data>
+		<key>Sticker Pack.stickerpack/International space station.png</key>
+		<data>
+		Pfp/aMPUocs0dscCcCHlUmCfzvQ=
+		</data>
+		<key>Sticker Pack.stickerpack/Math meme.gif</key>
+		<data>
+		JyGC8Zzu3o+HF4lSlD2DVHyoBnE=
+		</data>
+		<key>Sticker Pack.stickerpack/Newspaper.gif</key>
+		<data>
+		LQHumTFspzx1fpTSw5xkSXZyGyU=
+		</data>
+		<key>Sticker Pack.stickerpack/Note taking.gif</key>
+		<data>
+		QJVh5jqWxv/2JPkCrHvScjb1Y3A=
+		</data>
+		<key>Sticker Pack.stickerpack/Rabbit hole.png</key>
+		<data>
+		wNocaiA6QTmURNbQA8gmhd5G/OE=
+		</data>
+		<key>Sticker Pack.stickerpack/RabbitHole.gif</key>
+		<data>
+		0+GhLjf4CNWUoULoI72P9qzO5es=
+		</data>
+		<key>Sticker Pack.stickerpack/Schrodingers cat.png</key>
+		<data>
+		pMsDvsIU6qd+myROB9z+9k0moDE=
+		</data>
+		<key>Sticker Pack.stickerpack/Science.gif</key>
+		<data>
+		61LHTQ+HMXCANrlFB5e/ttgkmdk=
+		</data>
+		<key>Sticker Pack.stickerpack/Scientific blackhole.png</key>
+		<data>
+		zhivXUQNnLVfm9MCJX62gwaENPc=
+		</data>
+		<key>Sticker Pack.stickerpack/Spacedog.png</key>
+		<data>
+		MSmxhtNvEUJDnX/NJYt70iinVZc=
+		</data>
+		<key>Sticker Pack.stickerpack/Tea dark skin tone.gif</key>
+		<data>
+		PVPKdcQHCLcL3CqYBO/B9OMoBp0=
+		</data>
+		<key>Sticker Pack.stickerpack/Tea light skin tone.gif</key>
+		<data>
+		O2zfLsGWXnb65qtXHmuyvDZCS8E=
+		</data>
+		<key>Sticker Pack.stickerpack/Teamwork.gif</key>
+		<data>
+		7GRCQfSHF97mJMzLX9anfd1yTx4=
+		</data>
+		<key>Sticker Pack.stickerpack/Thug.gif</key>
+		<data>
+		U2aGUgx+8WRRcr3CW5qysAweNWs=
+		</data>
+		<key>Sticker Pack.stickerpack/What.gif</key>
+		<data>
+		1o/hJtk55CKgBBXbD0sqZoReilI=
+		</data>
+		<key>Sticker Pack.stickerpack/Wordmark.gif</key>
+		<data>
+		80OKXEISasEtquk+HcH9oSApAxo=
+		</data>
+		<key>Sticker Pack.stickerpack/World.gif</key>
+		<data>
+		ss480riWdL7K4EwYeSUSHXqy7bw=
+		</data>
+		<key>iMessage App Icon27x20@2x.png</key>
+		<data>
+		5Ois/asD3PvrczAF8Hokbjyo97w=
+		</data>
+		<key>iMessage App Icon27x20@3x.png</key>
+		<data>
+		YCmqU4yhqE7unghiff5ow2GnW1I=
+		</data>
+		<key>iMessage App Icon32x24@2x.png</key>
+		<data>
+		uBaqIYzoH49C9/4Khu0PajNMov4=
+		</data>
+		<key>iMessage App Icon32x24@3x.png</key>
+		<data>
+		7CbRKu28I4vUuThqz3V5rLzYilg=
+		</data>
+		<key>iMessage App Icon60x45@2x.png</key>
+		<data>
+		AVrpsSNBHyhTNXWWUJRRFr6lIyw=
+		</data>
+		<key>iMessage App Icon60x45@3x.png</key>
+		<data>
+		jmenFhXLl/+pMe9HRUFyzhKkmgY=
+		</data>
+		<key>iMessage App Icon67x50@2x.png</key>
+		<data>
+		fj8SAiNWWg4j8ti1OvsK7klNtD8=
+		</data>
+		<key>iMessage App Icon74x55@2x.png</key>
+		<data>
+		gARL1ibmWZ+tDUCb9kEjXWR81DY=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KGBDolE1ecZcyRn/1szB9miTvYg=
+			</data>
+			<key>hash2</key>
+			<data>
+			TKUSWW64icmxmmAFLu18pnbFLmWpoDIFWhNwaxUvonE=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Anatomical heart.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wx/3Et+bui+a+iazNX1qNPVk0No=
+			</data>
+			<key>hash2</key>
+			<data>
+			ogHW0ssTwN+JhVJ6UlcdUjfFKA+ZI06tUC/ifqWuCxY=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Astronaut animated.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cg/9MnbtvODEudFJRr+iIL3YteU=
+			</data>
+			<key>hash2</key>
+			<data>
+			RDdKvZJI+WwjP+7Z4EhFZa//eZbnOXInu9abdlkVLV0=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Astronaut.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QjW4zs6nlezwG9zLeAK4Uml7yvc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KSiiqPAqrOS9uk6rPmvg1b9PR1vcJbrP1WTST1ctTV0=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Blackhole.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NL4Z88vUoOiQWeJlgNTRF4E0uw0=
+			</data>
+			<key>hash2</key>
+			<data>
+			o+//syp98gMJP2eBuIuTIBCaT5mcnnm6i40E33kRuuI=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Books.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ag9qdzilbEZpx9OMjJ0PGKpYm3g=
+			</data>
+			<key>hash2</key>
+			<data>
+			vBOBWcYqhp4vt6i4FhLWMrjMstx7LIBfl51TV55d1WI=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/BrainFood.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NYqzXfAoT49Dv4Dy992y2fzQUCo=
+			</data>
+			<key>hash2</key>
+			<data>
+			qfQhgFV+iXUFXeWRdXoNALTMIZTm3+ZgU4fXBsGTZ7k=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Butterfly.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tsw05c+qAFEQOHKTz+miheBuukg=
+			</data>
+			<key>hash2</key>
+			<data>
+			a/gnDT5btacjwOY6Rubt/XX9YbOr0XqQfCYSxwqF4kQ=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/CatLaptop.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3k1w+AoJ/bzhbPD0dcjE2hats7E=
+			</data>
+			<key>hash2</key>
+			<data>
+			0P13D04+Rwnvf4/Ol/QefxN7sqrJIYH+dfCp8m38SB4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Citation needed .png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yxt5lhaXvI6zzWISd+AtAczeJz8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zna4qbRCTlrsIo78x8L5cKCaZuFDdSVgleDfoktwtvg=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Citation needed animated.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Po+YLKwJTJyMB6SyJlsaPZFCCc8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TBe8F43Cdz/eZbegDT/wB8jO4+JPABBiF+zMLqTR5Oc=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Dragon.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7cdNl6hOW0Z/Dnms4FqCtP6NVok=
+			</data>
+			<key>hash2</key>
+			<data>
+			qL7yB0rEwlBw/Y1F4X/qSS6tc6fYUh2MPoATuGzesqw=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Facts.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HtPy1Wd3xFmnczVlnmr/6WpUztE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NEqcRZVfF4/KD6oh+oTsHD0JtMTaCkMtUBILQGkYHvg=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Heart eyes.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			knI8sSuCIWdKA3E0BhJpuCG4+Gk=
+			</data>
+			<key>hash2</key>
+			<data>
+			6lwJ8eU75akYezsOzKVT/7CClXUPT6kmTnek5Gie4yM=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Help lol.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FGHETXNHW7bXqPAHBugnyQLH5vw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RIygD3ZmiREvhCd0YTPNg37XdjUr/EnA5l3YsThyRg4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Idea.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BPP4GEbMEuBi6vQ0PQCHHZ8t17g=
+			</data>
+			<key>hash2</key>
+			<data>
+			VGGHDMjdWjnN3i0Jx1KW87HP2I/QVyncfWPcova3glI=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p6dEHVcy6iC6uePByw/GUIFuavM=
+			</data>
+			<key>hash2</key>
+			<data>
+			r1UO32mfAZa4/ESuEGMniuMps6QFDgWcxiB5HgnRR8Y=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/International space station.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Pfp/aMPUocs0dscCcCHlUmCfzvQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			C9qn8Z3MrGyBIDE4GvnPur2LB7gPIY5Aazek6o55oRg=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Math meme.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JyGC8Zzu3o+HF4lSlD2DVHyoBnE=
+			</data>
+			<key>hash2</key>
+			<data>
+			41e+AIe/pK2kCh6eaJxRsKpdYWcNrglwrV8WAP3M0DE=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Newspaper.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LQHumTFspzx1fpTSw5xkSXZyGyU=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qrppFDjHqyYT204Kue55pM0k9XuWt/FOW/+vjmiCKY=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Note taking.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QJVh5jqWxv/2JPkCrHvScjb1Y3A=
+			</data>
+			<key>hash2</key>
+			<data>
+			FZM8mp3xJn+agdhLsarnmjjpb1NbPLspmPpfPXR8yW0=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Rabbit hole.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wNocaiA6QTmURNbQA8gmhd5G/OE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ltk0yaUnjb0MBe0RZl3pGX4jWpMLhZ3FJ/SapszQOFk=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/RabbitHole.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0+GhLjf4CNWUoULoI72P9qzO5es=
+			</data>
+			<key>hash2</key>
+			<data>
+			OhKmhBs7Z5y8jn5Y0TkUtu8WrtcSL926yjuqomDeo7o=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Schrodingers cat.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pMsDvsIU6qd+myROB9z+9k0moDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			1m0TrP8BTQfRZpNjs08gBhaXt+Fot6/8pbhiHFL1jYE=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Science.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			61LHTQ+HMXCANrlFB5e/ttgkmdk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xo9mvXmv1T+/fzP2/iHqZXS4tCs+J1/r8GAQMV708H4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Scientific blackhole.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zhivXUQNnLVfm9MCJX62gwaENPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			CahmFx01M31PLpq6YduUcMUKAXIRzCdJ9eaq9MEyz+A=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Spacedog.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MSmxhtNvEUJDnX/NJYt70iinVZc=
+			</data>
+			<key>hash2</key>
+			<data>
+			t54L2E8E8sIKAak/HuijK4jLWY0W/Ey7C80wI5l/fL4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Tea dark skin tone.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PVPKdcQHCLcL3CqYBO/B9OMoBp0=
+			</data>
+			<key>hash2</key>
+			<data>
+			kRl6sodzPQTqa0ck3o97GuFBg1esqZSAI55eLcI8Q7o=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Tea light skin tone.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O2zfLsGWXnb65qtXHmuyvDZCS8E=
+			</data>
+			<key>hash2</key>
+			<data>
+			8LxPI8RAHmo5zSwIFnP8mhASuGZvH1ZOJB5kf8FsBhQ=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Teamwork.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7GRCQfSHF97mJMzLX9anfd1yTx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			TKZMV/5TgbDeL4fsTF10zMwfc0o6c0lAkulNzuv0VpY=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Thug.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U2aGUgx+8WRRcr3CW5qysAweNWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			4ZAqaT9YTPwJeISqTPOOjsbWlQI+D6CouqBnI/6y7qY=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/What.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1o/hJtk55CKgBBXbD0sqZoReilI=
+			</data>
+			<key>hash2</key>
+			<data>
+			oH0yIeP2KPWRkuuIJa8hjc4jQ50DHm0FC1jBdnJ02l4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Wordmark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			80OKXEISasEtquk+HcH9oSApAxo=
+			</data>
+			<key>hash2</key>
+			<data>
+			z5Vc6pD1tljOfB6Xf23f1Wfmis7a7ZIjwmblY9jc3DM=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/World.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ss480riWdL7K4EwYeSUSHXqy7bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			cy+vtjLpyaemOzTqVwhfOYGD0nQmXrH8A7BAuuR9/yI=
+			</data>
+		</dict>
+		<key>iMessage App Icon27x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5Ois/asD3PvrczAF8Hokbjyo97w=
+			</data>
+			<key>hash2</key>
+			<data>
+			TIKAZ5DPPevSp7UNhA5W1TAqomC6Rdx/JM1XIpxWpis=
+			</data>
+		</dict>
+		<key>iMessage App Icon27x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YCmqU4yhqE7unghiff5ow2GnW1I=
+			</data>
+			<key>hash2</key>
+			<data>
+			JGOpYMhj6blti1kwZQMsHvlnWJgZgtsex1caOoBR1TI=
+			</data>
+		</dict>
+		<key>iMessage App Icon32x24@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uBaqIYzoH49C9/4Khu0PajNMov4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rhgnt0G5ygA1QoIGpa9kjGOuD79mACAZicToZpoyogw=
+			</data>
+		</dict>
+		<key>iMessage App Icon32x24@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7CbRKu28I4vUuThqz3V5rLzYilg=
+			</data>
+			<key>hash2</key>
+			<data>
+			P8g9aAp876947c8bjtxgdYrA2th6v9mY5jsem7EloUk=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x45@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AVrpsSNBHyhTNXWWUJRRFr6lIyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			IF+4dI3IULXuvu4p2zkHAsq71HGnVaYRCrAsKBFZ4B8=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x45@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jmenFhXLl/+pMe9HRUFyzhKkmgY=
+			</data>
+			<key>hash2</key>
+			<data>
+			OBWg94TDo9P+BQlmYAmB/IuEMvc5QaIe6ZZMpMdsEn0=
+			</data>
+		</dict>
+		<key>iMessage App Icon67x50@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fj8SAiNWWg4j8ti1OvsK7klNtD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			yCJLdij5kdMhyRQY44vcS6oo3KreWGAXPJvJUFpLsV0=
+			</data>
+		</dict>
+		<key>iMessage App Icon74x55@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gARL1ibmWZ+tDUCb9kEjXWR81DY=
+			</data>
+			<key>hash2</key>
+			<data>
+			oZplFMlM3EnZN0/ypAJgrPeN4p6hVP+tsij0wlABtHI=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
