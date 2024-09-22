@@ -62,7 +62,10 @@ To run the project and perform end-to-end (E2E) tests using Maestro, follow the 
 
 - **e2e:ios:build**
 - **e2e:ios:install**
-- **e2e:ios:run** 
+- **e2e:ios:run**
+- **e2e:android:build**
+- **e2e:android:install**
+- **e2e:android:run**
 
 ## Contribution
 
