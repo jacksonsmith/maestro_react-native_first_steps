@@ -1,0 +1,15 @@
+appId: com.awesomeproject
+---
+  - launchApp
+
+  - tapOn:
+      text: "Step One"
+  - assertVisible:
+      text: "Edit App.tsx to change this screen and then come back to see your edits."
+  - assertVisible:
+      text: "Debug" # Verifying the text within DebugInstructions is visible
+  - assertVisible:
+      text: "Read the docs to discover what to do next:"
+  - scrollUntilVisible:
+      element:
+        text: "Follow us on Twitter"
